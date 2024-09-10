@@ -4,7 +4,7 @@ Pelo décimo segundo ano consecutivo, o JavaScript se destaca como a linguagem d
 |:--:| 
 | *Popularidade de linguagens segundo github 2022* |
 
-A verdade é que escolher uma linguagem para se trabalhar é algo **estratégico**! vou listar alguns critérios importantes para escolha de uma linguagem.
+A verdade é que escolher uma linguagem para se trabalhar é algo **estratégico**! vou listar alguns critérios importantes para escolha de uma linguagem de forma estratégica.
 
 - **Ecosistema e comunidade**: A linguagem de programação escolhida deve levar em consideração o tamanho da comunidade de usuários que utilizam e apoiam, prestam suporte para essa linguagem, para que exista conteúdos disponíveis para eventuais dúvidas e bugs. programar vai além das paredes de um quarto.
 
@@ -69,32 +69,19 @@ Python tem uma série de outras caractristicas que tornaram ela popular entre pr
 
 - **É Academica**: A linguagem Python se tornou a linguagem de referência no meio acadêmico, com alguns alunos tendo contato com ela desde o ensino fundamental. (Acredite ou não, há livros infantis ilustrados dedicados à linguagem Python.) Embora os alunos de ciência da computação aprendam Python com frequência, seu uso vai além dessa disciplina, abrangendo outras áreas de STEM e pesquisa acadêmica. Por exemplo, o Python pode ser usado para resolver equações diferenciais, realizar análises estatísticas, simular e rastrear a difusão de partículas e muito mais.
 
-- **Tem alta demanda corporativa**: Ela tem alta demanda corporativa. Devido à sua aplicabilidade em larga escala no trabalho de desenvolvimento e análise de dados, aprender e conhecer Python é frequentemente considerado uma das principais habilidades entre os candidatos a emprego. De acordo com o Statista, Python foi a terceira linguagem mais exigida em 2022 pelos recrutadores em todo o mundo. 
-Ao analisar os visitantes por setor, o Stack Overflow observou
-que aqueles que visualizam perguntas relacionadas a Python estão mais
-comumente envolvidos no meio acadêmico, seguidos por eletrônicos,
-manufatura e setores de software. 
+- **Tem alta demanda corporativa**: Devido à sua aplicabilidade em larga escala no trabalho de desenvolvimento e análise de dados, aprender e conhecer Python é frequentemente considerado uma das principais habilidades entre os candidatos a emprego. De acordo com o Statista, Python foi a terceira linguagem mais exigida em 2022 pelos recrutadores em todo o mundo. 
+Ao analisar os visitantes por setor, o Stack Overflow observou que aqueles que visualizam perguntas relacionadas a Python estão mais comumente envolvidos no meio acadêmico, seguidos por eletrônicos, manufatura e setores de software. 
 
 - **É Open Source**: Embora todos os direitos desse programa sejam reservados ao
   Instituto Python, ele é de código aberto e não há nenhuma
-  limitação de uso, alteração e distribuição.Você pode usar e distribuir livremente o Python, mesmo para uso comercial. 
-  Não só você pode usar e distribuir softwares escritos nele, como também pode
-  até mesmo fazer alterações no código-fonte do Python. O Python tem
-  uma grande comunidade que o aprimora constantemente a cada iteração. 
+  limitação de uso, alteração e distribuição.Você pode usar e distribuir livremente o Python, mesmo para uso comercial. Não só você pode usar e distribuir softwares escritos nele, como também pode até mesmo fazer alterações no código-fonte do Python. O Python tem uma grande comunidade que o aprimora constantemente a cada iteração. 
 
 - **É Portátil**: Os scripts Python podem ser usados em diferentes sistemas operacionais
-  tais como: Windows, Linux, UNIX, Amigo, Mac OS, etc. Você pode
-  mover programas Python de uma plataforma para outra e
-  executá-los sem nenhuma alteração.
-  Ele é executado sem problemas em quase todas as plataformas, incluindo
-  Windows, Mac OS X e Linux.  Python também suporta outras tecnologias como COM, .Net .
+  tais como: Windows, Linux, UNIX, Amigo, Mac OS, etc. Você pode mover programas Python de uma plataforma para outra e executá-los sem nenhuma alteração. Ele é executado sem problemas em quase todas as plataformas, incluindo Windows, Mac OS X e Linux.  Python também suporta outras tecnologias como COM, .Net .
 
 - **É Extensivel e Incorporável**: Suponha que um aplicativo exija alto desempenho. Você pode
   combinar facilmente partes de C/C++ ou outras linguagens com
-  código Python.
-  Isso dará ao seu aplicativo alto desempenho, bem como
-  recursos de script que outras linguagens podem não oferecer
-  fora da caixa.
+  código Python. Isso dará ao seu aplicativo alto desempenho, bem como recursos de script que outras linguagens podem não oferecer fora da caixa.
 
 
 - **Possui uma biblioteca padrão ampla**: Essa biblioteca está disponível para qualquer pessoa acessar e significa que os usuários não precisam escrever código para cada função - eles podem acessar módulos integrados que ajudam com problemas na programação diária e muito mais
@@ -102,7 +89,7 @@ manufatura e setores de software.
 
 ## **Contras**:
 
-- **Não é fácil de manter**: Como o Python é uma linguagem tipada dinamicamente, isso pode significar pode facilmente significar algo bom ou ruim a depender do contexto. À medida que uma aplicaão Python fica maior e mais complexa, isso pode se tornar difícil de manter, pois os erros se tornarão difíceis de rastrear e corrigir, portanto, será necessário ter experiência para projetar seu código e escrever bons testes unitários para facilitar a manutenção. 
+- **Não é fácil de manter**: Como o Python é uma linguagem tipada dinamicamente, isso pode significar algo bom ou ruim dependendo do contexto. À medida que uma aplicaão Python fica maior e mais complexa, isso pode se tornar difícil de manter, pois os erros se tornarão difíceis de rastrear e corrigir, portanto, será necessário ter experiência para projetar seu código e escrever bons testes unitários para facilitar a manutenção. 
 
 - **É lenta**: Python é uma linguagem interpretada de alto nível, isso significa que ela abstrai muitos detalhes que o computador precisa entender, como por exemplo gerenciamento de memória, ponteiros etc. Apesar dela permitir você escrever código de uma forma mais próxima que os seres humanos pensam.
 
